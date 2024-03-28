@@ -2,5 +2,8 @@
 Thanks for stopping by :D
 
 
-I'm Sarika currently working at HILTON as a Software Engineer.
-I have 4+ years of experience working in various domains like Data Analytics, backend and data engineering.
+
+I am passionate about learning and applying new technologies and techniques in the field of data engineering and software development, such as NoSQL, ETL, and Big Data. I graduated my Master degree in Computer Technology at Eastern Illinois University, where I expand my knowledge and skills in computer systems and technology. 
+
+
+How to reach me: Feel free to connect with me on [LinkedIn]- https://www.linkedin.com/in/sarika-reddy-v/ or drop me an email at vontarys@gmail.com. Let's connect and explore opportunities to collaborate!
